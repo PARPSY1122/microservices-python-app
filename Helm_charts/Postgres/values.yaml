@@ -7,5 +7,5 @@ container:
   image: postgres
   env:
     user: ajay
-    password: ajay@9505
+    password: ajay9505
     db: authdb
